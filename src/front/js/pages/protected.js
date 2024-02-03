@@ -13,6 +13,5 @@ export const Protected = () => {
             </div>
 }
         </div>
-        
     );
 };
